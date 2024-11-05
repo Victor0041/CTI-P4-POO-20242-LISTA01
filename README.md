@@ -29,5 +29,5 @@ Sou **Victor**, um desenvolvedor apaixonado por tecnologia, inovação e aprendi
 ## Entre em contato
 
 - 📧 Email: victor.melo09@aluno.ifce.edu.br
-- 📸 Instagram: [@victor.dev](https://instagram.com/victor_MS)
+- 📸 Instagram: [@victor_MS](https://instagram.com/victor_MS)
 
